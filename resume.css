@@ -1,0 +1,36 @@
+html body {
+	margin: 0;
+	padding: 0;
+	background-color: #EFEFFF;
+	font-family: Verdana, sans-serif;
+}
+
+.top-part h1 {
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+}
+
+.top-part {
+  vertical-align: top;
+  background-image:url('https://farm8.staticflickr.com/7284/16739303947_7d70b12f3a_b.jpg');
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.all-the-things {
+	margin: 10px;
+	padding: 10px;
+}
+
+.all-the-things h2 {
+	font-weight: bold;
+	color: #000066;
+
+}
